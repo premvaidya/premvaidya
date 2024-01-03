@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Saransh Vaidya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
@@ -13,6 +14,8 @@
 <a href="https://linkedin.com/in/prem-vaidya-448789290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premvaidya" height="30" width="40" /></a>
 <a href="https://fb.com/prem.vaidya.311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="premvaidya" height="30" width="40" /></a>
 <a href="https://instagram.com/saranshvaidya_prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranshvaidya_prem" height="30" width="40" /></a>
+<a href="https://wa.me/qr/Y2D6V4MEY5BMM1"target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="" height="30" width="40"/></a>
+<a href="https://www.snapchat.com/add/saranshvaidya?share_id=ByLCJ4cEabo&locale=en-IN"target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
